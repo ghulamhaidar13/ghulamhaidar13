@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghulam Haidar
-- 👀 I’m interested web development in Angular
-- 🌱 I’m currently Pyhton
+- 👀 I’m interested in web development using Angular
+- 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 You can reach me on ghulamhaidar6@gmail.com
 
